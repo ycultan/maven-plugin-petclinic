@@ -317,7 +317,7 @@
                         <serverName>LTAN-C02DL1KHMD6R</serverName>
                         <standalone>true</standalone>
                         <minSeverity>High</minSeverity>
-                        <jarPath>contrast-agent-6.11.1.jar</jarPath>
+<!--                         <jarPath>contrast-agent-6.11.1.jar</jarPath> -->
                     </configuration>
                 </plugin>
             </plugins>
